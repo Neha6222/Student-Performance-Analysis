@@ -1,1 +1,60 @@
+# Python — Student Performance Analysis
 
+## 📌 Overview
+
+This folder contains the Jupyter Notebook for the Student Performance Analysis project.
+
+The notebook demonstrates basic data manipulation and visualization using Python.
+
+## 🛠️ Technologies Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+## 🔍 Analysis Performed
+
+The notebook includes:
+
+* Creating a student marks DataFrame
+* Inspecting the dataset
+* Calculating total marks
+* Calculating average marks
+* Ranking students based on total marks
+* Creating a bar chart of average marks
+
+## 📊 Dataset
+
+The dataset contains five students and their marks in:
+
+* Mathematics
+* Science
+* Social Studies
+
+## 📈 Output
+
+The analysis produces a processed DataFrame containing:
+
+* Student name
+* Subject marks
+* Total marks
+* Average marks
+* Student rank
+
+A bar chart is also created to compare the average marks of each student.
+
+## 📁 Notebook
+
+`Student_Performance_Analysis.ipynb`
+
+## ▶️ How to Run
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Then open the notebook using **Jupyter Notebook, JupyterLab, or Google Colab**.
